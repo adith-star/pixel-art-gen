@@ -38,5 +38,6 @@ Batch Size : 10 for both the labels (though can be kept different)
 
 ## Outputs
 
+<img src="results/1.png">
 
 
