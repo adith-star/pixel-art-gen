@@ -39,5 +39,11 @@ Batch Size : 10 for both the labels (though can be kept different)
 ## Outputs
 
 <img src="results/1.png">
+<img src="results/2.png">
+<img src="results/3.png">
+<img src="results/4.png">
+<img src="results/5.png">
+<img src="results/6.png">
+<img src="results/7.png">
 
 
