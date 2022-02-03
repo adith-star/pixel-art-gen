@@ -16,7 +16,7 @@ dataset3 - https://www.kaggle.com/adhith1/freetype
 
 https://www.kaggle.com/adhith1/aaaaaa
 
-https://www.kaggle.com/adhith1/newtrain?select=trr2
+https://www.kaggle.com/adhith1/newtrain?select=trr1
 
 https://www.kaggle.com/adhith1/d1d1d1
 
@@ -30,7 +30,7 @@ Set 1 - https://www.kaggle.com/adhith1/newtrain?select=trr2
 
 Set 2 - https://www.kaggle.com/adhith1/d1d1d1
 
-Epochs - 5
+Epochs - 2
 
 Lambda - 10
 
