@@ -26,4 +26,4 @@ It includes two characters that are made to jump over sprites and monsters in or
 
 https://user-images.githubusercontent.com/84474888/152501974-2572c7c3-a879-423d-bced-f14dc8785201.mp4
 
-<text style="font-size=2px">(P.S) The blur on the bottom right is some screen recording error</text>
+<p style="font-size=2px">(P.S) The blur on the bottom right is some screen recording error</p>
