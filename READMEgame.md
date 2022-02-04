@@ -12,7 +12,7 @@ It includes two characters that are made to jump over sprites and monsters in or
 
 <img src="results/char.png">
 
-<img src="results/photo_2022-02-02_21-16-50.png">
+<img src="results/photo_2022-02-02_21-16-50.jpg">
 
 <img src="results/ground.png">
 
