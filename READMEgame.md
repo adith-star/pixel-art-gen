@@ -24,5 +24,5 @@ It includes two characters that are made to jump over sprites and monsters in or
 
 ## Gameplay
 
-https://user-images.githubusercontent.com/84474888/152500723-c88d17ff-20f1-41ec-afad-78b473e20b74.mp4
+https://user-images.githubusercontent.com/84474888/152501974-2572c7c3-a879-423d-bced-f14dc8785201.mp4
 
